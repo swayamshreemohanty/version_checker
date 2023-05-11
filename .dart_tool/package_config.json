@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.10.0",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -21,7 +21,7 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.2.1",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/characters-1.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -33,13 +33,13 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.0",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "dio",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.1.1",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/dio-5.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.15"
     },
@@ -57,7 +57,7 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.1",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -65,7 +65,7 @@
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_bloc",
@@ -83,13 +83,13 @@
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_web_plugins",
       "rootUri": "file:///C:/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "fluttertoast",
@@ -99,9 +99,9 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "http_parser",
@@ -111,19 +111,19 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.5",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
-      "languageVersion": "2.16"
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.0.1",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "matcher",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.13",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.15",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -135,7 +135,7 @@
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.8.0",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -147,43 +147,19 @@
     },
     {
       "name": "package_info_plus",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-1.4.3+1",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "package_info_plus_linux",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_linux-1.0.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "package_info_plus_macos",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_macos-1.3.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "package_info_plus_platform_interface",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_platform_interface-1.0.2",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_platform_interface-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "package_info_plus_web",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_web-1.0.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "package_info_plus_windows",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus_windows-2.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
     },
     {
       "name": "path",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.2",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -203,7 +179,7 @@
       "name": "sky_engine",
       "rootUri": "file:///C:/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "source_span",
@@ -237,25 +213,25 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.4.16",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "typed_data",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.1",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "url_launcher",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.1.10",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher-6.1.11",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.27",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.31",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -267,7 +243,7 @@
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.0.4",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_linux-3.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -291,7 +267,7 @@
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.0.5",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_windows-3.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -303,7 +279,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/win32-3.1.4",
+      "rootUri": "file:///C:/Users/Swayamshree%20Mohanty/AppData/Local/Pub/Cache/hosted/pub.dev/win32-4.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -314,7 +290,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-04-20T13:20:14.776520Z",
+  "generated": "2023-05-11T11:23:13.730894Z",
   "generator": "pub",
-  "generatorVersion": "2.19.6"
+  "generatorVersion": "3.0.0"
 }
